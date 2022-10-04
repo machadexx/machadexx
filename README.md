@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-- I'm a 20yo student @ IPMAIA and part-time worker @ Jerónimo Martins.
-
-- I'm currently learning JavaScript and always ready for a challenge!
+- I'm a 21yo student @ IPMAIA and a Trainee Technical Consultant @ Tlantic, SI.
 
 - My LinkedIn profile is www.linkedin.com/in/machadexx
